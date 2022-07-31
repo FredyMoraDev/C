@@ -1,3 +1,5 @@
 # ninja log v5
 1	86	6809362384360218	CMakeFiles/HolaMundo.dir/main.c.obj	6e87f2d92d4434be
 87	209	6809362385555770	HolaMundo.exe	49d1c627bc7dc522
+2	91	6809372419018755	CMakeFiles/HolaMundo.dir/main.c.obj	6e87f2d92d4434be
+92	205	6809372420119971	HolaMundo.exe	49d1c627bc7dc522
