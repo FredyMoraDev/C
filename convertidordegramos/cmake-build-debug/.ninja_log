@@ -1,0 +1,23 @@
+# ninja log v5
+1	92	6810350946342508	CMakeFiles/convertidordegramos.dir/main.c.obj	b8ffa1cd0d798fb2
+94	210	6810350947492405	convertidordegramos.exe	a981ea557ae7e563
+2	77	6810351246503852	CMakeFiles/convertidordegramos.dir/main.c.obj	b8ffa1cd0d798fb2
+78	186	6810351247510961	convertidordegramos.exe	a981ea557ae7e563
+2	84	6810351341303364	CMakeFiles/convertidordegramos.dir/main.c.obj	b8ffa1cd0d798fb2
+85	191	6810351342325649	convertidordegramos.exe	a981ea557ae7e563
+3	78	6810352450033241	CMakeFiles/convertidordegramos.dir/main.c.obj	b8ffa1cd0d798fb2
+79	190	6810352451101434	convertidordegramos.exe	a981ea557ae7e563
+1	97	6810354835089332	CMakeFiles/convertidordegramos.dir/main.c.obj	b8ffa1cd0d798fb2
+98	219	6810354836239085	convertidordegramos.exe	a981ea557ae7e563
+3	93	6810355147427002	CMakeFiles/convertidordegramos.dir/main.c.obj	b8ffa1cd0d798fb2
+94	220	6810355148644727	convertidordegramos.exe	a981ea557ae7e563
+4	131	6810356984703097	CMakeFiles/convertidordegramos.dir/main.c.obj	b8ffa1cd0d798fb2
+132	282	6810356986197118	convertidordegramos.exe	a981ea557ae7e563
+3	138	6810359550970739	CMakeFiles/convertidordegramos.dir/main.c.obj	b8ffa1cd0d798fb2
+139	316	6810359552723091	convertidordegramos.exe	a981ea557ae7e563
+3	120	6810362964879741	CMakeFiles/convertidordegramos.dir/main.c.obj	b8ffa1cd0d798fb2
+121	290	6810362966499764	convertidordegramos.exe	a981ea557ae7e563
+3	102	6810363233640823	CMakeFiles/convertidordegramos.dir/main.c.obj	b8ffa1cd0d798fb2
+103	235	6810363234919825	convertidordegramos.exe	a981ea557ae7e563
+3	102	6810364680997723	CMakeFiles/convertidordegramos.dir/main.c.obj	b8ffa1cd0d798fb2
+103	233	6810364682255005	convertidordegramos.exe	a981ea557ae7e563

@@ -1,0 +1,11 @@
+# ninja log v5
+0	128	6810119101041493	CMakeFiles/sumadepareseimpares.dir/main.c.obj	fd31751e82637d1a
+130	308	6810119102771303	sumadepareseimpares.exe	f7ab5ddfa33e1f4
+2	98	6810291193807312	CMakeFiles/sumadepareseimpares.dir/main.c.obj	fd31751e82637d1a
+98	211	6810291194920936	sumadepareseimpares.exe	f7ab5ddfa33e1f4
+2	85	6810308446876104	CMakeFiles/sumadepareseimpares.dir/main.c.obj	fd31751e82637d1a
+86	186	6810308447837235	sumadepareseimpares.exe	f7ab5ddfa33e1f4
+2	80	6810308711156441	CMakeFiles/sumadepareseimpares.dir/main.c.obj	fd31751e82637d1a
+80	176	6810308712083576	sumadepareseimpares.exe	f7ab5ddfa33e1f4
+2	72	6810310025218317	CMakeFiles/sumadepareseimpares.dir/main.c.obj	fd31751e82637d1a
+73	173	6810310026161708	sumadepareseimpares.exe	f7ab5ddfa33e1f4

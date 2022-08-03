@@ -1,0 +1,27 @@
+# ninja log v5
+0	80	6809513878782685	CMakeFiles/areaperimetrocuadrado.dir/main.c.obj	242ea8eb0415be8c
+81	209	6809513880003974	areaperimetrocuadrado.exe	dd4038e4c6cca22b
+2	80	6809513976797889	CMakeFiles/areaperimetrocuadrado.dir/main.c.obj	242ea8eb0415be8c
+82	217	6809513978131547	areaperimetrocuadrado.exe	dd4038e4c6cca22b
+2	87	6809515130081216	CMakeFiles/areaperimetrocuadrado.dir/main.c.obj	242ea8eb0415be8c
+88	207	6809515131208965	areaperimetrocuadrado.exe	dd4038e4c6cca22b
+3	89	6809515693958908	CMakeFiles/areaperimetrocuadrado.dir/main.c.obj	242ea8eb0415be8c
+91	235	6809515695337477	areaperimetrocuadrado.exe	dd4038e4c6cca22b
+2	90	6809515850379981	CMakeFiles/areaperimetrocuadrado.dir/main.c.obj	242ea8eb0415be8c
+91	220	6809515851609035	areaperimetrocuadrado.exe	dd4038e4c6cca22b
+4	79	6809516001760441	CMakeFiles/areaperimetrocuadrado.dir/main.c.obj	242ea8eb0415be8c
+80	182	6809516002761904	areaperimetrocuadrado.exe	dd4038e4c6cca22b
+2	95	6809519650173703	CMakeFiles/areaperimetrocuadrado.dir/main.c.obj	242ea8eb0415be8c
+96	235	6809519651521096	areaperimetrocuadrado.exe	dd4038e4c6cca22b
+3	83	6809520063679235	CMakeFiles/areaperimetrocuadrado.dir/main.c.obj	242ea8eb0415be8c
+84	212	6809520064873211	areaperimetrocuadrado.exe	dd4038e4c6cca22b
+3	100	6809520449326660	CMakeFiles/areaperimetrocuadrado.dir/main.c.obj	242ea8eb0415be8c
+101	245	6809520450693405	areaperimetrocuadrado.exe	dd4038e4c6cca22b
+3	86	6809520702999176	CMakeFiles/areaperimetrocuadrado.dir/main.c.obj	242ea8eb0415be8c
+87	217	6809520704266682	areaperimetrocuadrado.exe	dd4038e4c6cca22b
+2	89	6809521974891841	CMakeFiles/areaperimetrocuadrado.dir/main.c.obj	242ea8eb0415be8c
+91	230	6809521976234386	areaperimetrocuadrado.exe	dd4038e4c6cca22b
+2	87	6809522374388905	CMakeFiles/areaperimetrocuadrado.dir/main.c.obj	242ea8eb0415be8c
+87	212	6809522375593298	areaperimetrocuadrado.exe	dd4038e4c6cca22b
+2	86	6809523033492286	CMakeFiles/areaperimetrocuadrado.dir/main.c.obj	242ea8eb0415be8c
+87	233	6809523034856356	areaperimetrocuadrado.exe	dd4038e4c6cca22b

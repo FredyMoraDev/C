@@ -1,0 +1,25 @@
+# ninja log v5
+1	104	6809397461219546	CMakeFiles/comparacionmultiplicacion.dir/main.c.obj	56987d0172dad069
+106	276	6809397462825744	comparacionmultiplicacion.exe	955ac5fa52ac06b
+3	110	6809415749454229	CMakeFiles/comparacionmultiplicacion.dir/main.c.obj	56987d0172dad069
+111	249	6809415750814107	comparacionmultiplicacion.exe	955ac5fa52ac06b
+3	91	6809416817790039	CMakeFiles/comparacionmultiplicacion.dir/main.c.obj	56987d0172dad069
+91	222	6809416819044776	comparacionmultiplicacion.exe	955ac5fa52ac06b
+4	96	6809417720262544	CMakeFiles/comparacionmultiplicacion.dir/main.c.obj	56987d0172dad069
+97	230	6809417721560412	comparacionmultiplicacion.exe	955ac5fa52ac06b
+2	96	6809419264874039	CMakeFiles/comparacionmultiplicacion.dir/main.c.obj	56987d0172dad069
+97	247	6809419266294514	comparacionmultiplicacion.exe	955ac5fa52ac06b
+3	119	6809419432973485	CMakeFiles/comparacionmultiplicacion.dir/main.c.obj	56987d0172dad069
+120	301	6809419434709900	comparacionmultiplicacion.exe	955ac5fa52ac06b
+5	107	6809420311297780	CMakeFiles/comparacionmultiplicacion.dir/main.c.obj	56987d0172dad069
+108	256	6809420312714802	comparacionmultiplicacion.exe	955ac5fa52ac06b
+2	85	6809420840707668	CMakeFiles/comparacionmultiplicacion.dir/main.c.obj	56987d0172dad069
+86	215	6809420841950528	comparacionmultiplicacion.exe	955ac5fa52ac06b
+2	221	6809431589414033	CMakeFiles/comparacionmultiplicacion.dir/main.c.obj	56987d0172dad069
+222	392	6809431591047057	comparacionmultiplicacion.exe	955ac5fa52ac06b
+2	96	6809431820055243	CMakeFiles/comparacionmultiplicacion.dir/main.c.obj	56987d0172dad069
+97	219	6809431821240576	comparacionmultiplicacion.exe	955ac5fa52ac06b
+5	96	6809433380130404	CMakeFiles/comparacionmultiplicacion.dir/main.c.obj	56987d0172dad069
+97	239	6809433381518387	comparacionmultiplicacion.exe	955ac5fa52ac06b
+2	95	6809433677713407	CMakeFiles/comparacionmultiplicacion.dir/main.c.obj	56987d0172dad069
+96	208	6809433678816833	comparacionmultiplicacion.exe	955ac5fa52ac06b
