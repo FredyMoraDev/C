@@ -1,0 +1,23 @@
+# ninja log v5
+0	88	6812912000827626	CMakeFiles/calculadoraBasica.dir/main.c.obj	e883e7d648c5500
+89	197	6812912001832823	calculadoraBasica.exe	fa5bbfa3ce8298f2
+9	107	6812917382547261	CMakeFiles/calculadoraBasica.dir/main.c.obj	e883e7d648c5500
+108	228	6812917383708710	calculadoraBasica.exe	fa5bbfa3ce8298f2
+2	69	6812917968433258	CMakeFiles/calculadoraBasica.dir/main.c.obj	e883e7d648c5500
+70	164	6812917969324279	calculadoraBasica.exe	fa5bbfa3ce8298f2
+1	77	6812926121317191	CMakeFiles/calculadoraBasica.dir/main.c.obj	e883e7d648c5500
+77	180	6812926122302907	calculadoraBasica.exe	fa5bbfa3ce8298f2
+2	74	6812926744117588	CMakeFiles/calculadoraBasica.dir/main.c.obj	e883e7d648c5500
+75	167	6812926744992185	calculadoraBasica.exe	fa5bbfa3ce8298f2
+1	68	6812927444182228	CMakeFiles/calculadoraBasica.dir/main.c.obj	e883e7d648c5500
+69	163	6812927445077554	calculadoraBasica.exe	fa5bbfa3ce8298f2
+2	75	6812928503129717	CMakeFiles/calculadoraBasica.dir/main.c.obj	e883e7d648c5500
+76	178	6812928504112678	calculadoraBasica.exe	fa5bbfa3ce8298f2
+2	74	6812928984026349	CMakeFiles/calculadoraBasica.dir/main.c.obj	e883e7d648c5500
+74	171	6812928984945247	calculadoraBasica.exe	fa5bbfa3ce8298f2
+3	75	6812932218765693	CMakeFiles/calculadoraBasica.dir/main.c.obj	e883e7d648c5500
+75	183	6812932219753014	calculadoraBasica.exe	fa5bbfa3ce8298f2
+1	81	6812933828771992	CMakeFiles/calculadoraBasica.dir/main.c.obj	e883e7d648c5500
+82	182	6812933829731633	calculadoraBasica.exe	fa5bbfa3ce8298f2
+3	80	6812935626997760	CMakeFiles/calculadoraBasica.dir/main.c.obj	e883e7d648c5500
+81	190	6812935628042195	calculadoraBasica.exe	fa5bbfa3ce8298f2
