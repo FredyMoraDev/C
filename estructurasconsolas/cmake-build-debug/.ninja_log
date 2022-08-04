@@ -1,0 +1,11 @@
+# ninja log v5
+1	130	6812859967880845	CMakeFiles/estructurasconsolas.dir/main.c.obj	84bb8a1564572836
+131	314	6812859969685299	estructurasconsolas.exe	cafd4b3a7c763c73
+2	94	6812861997166471	CMakeFiles/estructurasconsolas.dir/main.c.obj	84bb8a1564572836
+95	234	6812861998542861	estructurasconsolas.exe	cafd4b3a7c763c73
+3	97	6812868363512718	CMakeFiles/estructurasconsolas.dir/main.c.obj	84bb8a1564572836
+97	206	6812868364557543	estructurasconsolas.exe	cafd4b3a7c763c73
+1	83	6812885796752504	CMakeFiles/estructurasconsolas.dir/main.c.obj	84bb8a1564572836
+83	218	6812885798065340	estructurasconsolas.exe	cafd4b3a7c763c73
+2	73	6812887306683093	CMakeFiles/estructurasconsolas.dir/main.c.obj	84bb8a1564572836
+73	173	6812887307653251	estructurasconsolas.exe	cafd4b3a7c763c73
