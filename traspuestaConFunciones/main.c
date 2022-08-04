@@ -1,9 +1,8 @@
 #include <stdio.h>
-
+#define N 5
+#define M 5
 int main() {
 
-    const int N = 5;
-    const int M = 5;
     int matriz[N][M];
 
     llenarMatriz(matriz, N,M);
@@ -12,7 +11,7 @@ int main() {
     return 0;
 }
 
-    int llenarMatriz (int matriz[5][5],int N,int M){
+    int llenarMatriz (int matriz[N][M]) {
         int i = 0;
         int j = 0;
             while (i < N){
@@ -26,7 +25,7 @@ int main() {
             }
     }
 
-    int imprimir (int matriz[5][5],int N, int M){
+    int imprimir (int matriz[N][M]){
         puts("\n\t La matriz original quedo asi:\n\n");
         //imprimir
         int i = 0;
@@ -41,8 +40,8 @@ int main() {
         i++;
         }
     }
-    
-    int traspuesta(int matriz[5][5],int N,int M){
+
+    int traspuesta(int matriz[N][M]){
         puts("\n");
         puts("\tMatriz Traspuesta\n");
         //imprime traspuesta
