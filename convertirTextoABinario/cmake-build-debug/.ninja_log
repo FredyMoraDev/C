@@ -1,0 +1,19 @@
+# ninja log v5
+0	79	6816338635266220	CMakeFiles/convertirTextoABinario.dir/main.c.obj	d8145f9486021dc9
+80	189	6816338636321794	convertirTextoABinario.exe	7f5c30097cb1ec45
+2	82	6816340077599180	CMakeFiles/convertirTextoABinario.dir/main.c.obj	d8145f9486021dc9
+83	187	6816340078606068	convertirTextoABinario.exe	7f5c30097cb1ec45
+2	83	6816340737174258	CMakeFiles/convertirTextoABinario.dir/main.c.obj	d8145f9486021dc9
+84	191	6816340738223724	convertirTextoABinario.exe	7f5c30097cb1ec45
+2	75	6816340921871709	CMakeFiles/convertirTextoABinario.dir/main.c.obj	d8145f9486021dc9
+76	173	6816340922788665	convertirTextoABinario.exe	7f5c30097cb1ec45
+3	77	6816341312038415	CMakeFiles/convertirTextoABinario.dir/main.c.obj	d8145f9486021dc9
+77	175	6816341313010718	convertirTextoABinario.exe	7f5c30097cb1ec45
+2	78	6816343248001105	CMakeFiles/convertirTextoABinario.dir/main.c.obj	d8145f9486021dc9
+79	176	6816343248902673	convertirTextoABinario.exe	7f5c30097cb1ec45
+2	1591	6816347579786315	CMakeFiles/convertirTextoABinario.dir/main.c.obj	d8145f9486021dc9
+1592	1716	6816347580997501	convertirTextoABinario.exe	7f5c30097cb1ec45
+2	83	6816349726781041	CMakeFiles/convertirTextoABinario.dir/main.c.obj	d8145f9486021dc9
+84	190	6816349727789671	convertirTextoABinario.exe	7f5c30097cb1ec45
+1	77	6816352400017707	CMakeFiles/convertirTextoABinario.dir/main.c.obj	d8145f9486021dc9
+77	179	6816352400996747	convertirTextoABinario.exe	7f5c30097cb1ec45

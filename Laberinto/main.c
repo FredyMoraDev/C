@@ -105,6 +105,11 @@ int main(){
             Avanza(matriz,y,x);
             break;
 
+        case 6:
+
+            printf ("\n""HASTA LUEGO""\n");
+            break;
+
         default:
             printf("Opci%cn no valida",162);
             break;
@@ -253,6 +258,46 @@ int localizaSY (char matriz[F][C]){
 }
 
 void Avanza(char matriz[F][C],int y, int x){
+
+    if(matriz[y][x]!='*'){
+        if(matriz[y][x]!='E'&& matriz[y][x]!='S'){
+            matriz[y][x]='.';
+            ImprimeMatriz(matriz);
+        }
+        //Aqui empieza
+        if (matriz[y][x+1]!='*'&&matriz[y][x+1]!='.'){//derecha
+
+
+            Avanza(matriz,y, x+1);
+
+        }else if(matriz[y][x-1]!='*'&&matriz[y][x-1]!='.'){//izquierda
+
+
+            Avanza(matriz,y, x-1);
+
+
+
+        }else if (matriz[y-1][x]!='*'&&matriz[y-1][x]!='.'){//arriba
+
+
+            Avanza(matriz,y-1,x);
+
+        } else if (matriz[y+1][x]!='*'&&matriz[y+1][x]!='.'){//abajo
+
+            Avanza(matriz, y+1,x);
+
+        }else if (matriz [x-1][y]=='*'&& matriz[x][y+1]!='*' && matriz[x+1][y]!='*' && matriz[x][y]!='*' &&
+                  matriz [x-1][y]=='.'&& matriz[x][y+1]!='.' && matriz[x+1][y]!='.' && matriz[x][y]!='.'){
+            matriz[x][y]='.';
+            ImprimeMatriz(matriz);
+        }else
+            ImprimeMatriz(matriz);
+    }
+    return;
+}
+
+
+/*void Avanza(char matriz[F][C],int y, int x){
     int solucion;//variable para imprimir si tiene soluci n o no
     if(matriz[y][x]!='*'){
         if(matriz[y][x]!='E'&& matriz[y][x]!='S'){
@@ -279,4 +324,4 @@ void Avanza(char matriz[F][C],int y, int x){
         //ImprimeMatriz(matriz);// se imprime la solucion
     }
     return;
-}
+}*/
