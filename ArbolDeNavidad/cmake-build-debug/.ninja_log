@@ -1,0 +1,11 @@
+# ninja log v5
+0	102	6817134448301857	CMakeFiles/ArbolDeNavidad.dir/main.c.obj	2d7817b981d643b3
+104	242	6817134449667150	ArbolDeNavidad.exe	1d7afe57970b368d
+3	88	6817139561003562	CMakeFiles/ArbolDeNavidad.dir/main.c.obj	2d7817b981d643b3
+88	208	6817139562153923	ArbolDeNavidad.exe	1d7afe57970b368d
+3	101	6817139889343968	CMakeFiles/ArbolDeNavidad.dir/main.c.obj	2d7817b981d643b3
+102	232	6817139890604821	ArbolDeNavidad.exe	1d7afe57970b368d
+2	92	6817140194618701	CMakeFiles/ArbolDeNavidad.dir/main.c.obj	2d7817b981d643b3
+93	208	6817140195728706	ArbolDeNavidad.exe	1d7afe57970b368d
+2	115	6817140326888816	CMakeFiles/ArbolDeNavidad.dir/main.c.obj	2d7817b981d643b3
+117	265	6817140328307682	ArbolDeNavidad.exe	1d7afe57970b368d
